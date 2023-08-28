@@ -17,3 +17,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=N01imits&show_icons=true&locale=en&theme=transparent" alt="Ilya-Belyakov" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=N01imits&theme=transparent" alt="Ilya-Belyakov" /></p>
+![Snake animation]( https://github.com/N01imits/N01imits/blob/output/github-contribution-grid-snake.svg )
