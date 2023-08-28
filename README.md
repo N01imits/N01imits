@@ -12,8 +12,8 @@
 
 
 <h3 align="left">My Stats:</h3>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ilya-Belyakov&show_icons=true&locale=en&layout=compact&theme=transparent" alt="Ilya-Belyakov" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=N01imits&show_icons=true&locale=en&layout=compact&theme=transparent" alt="Ilya-Belyakov" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Ilya-Belyakov&show_icons=true&locale=en&theme=transparent" alt="Ilya-Belyakov" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=N01imits&show_icons=true&locale=en&theme=transparent" alt="Ilya-Belyakov" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Ilya-Belyakov&theme=transparent" alt="Ilya-Belyakov" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=N01imits&theme=transparent" alt="Ilya-Belyakov" /></p>
