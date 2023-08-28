@@ -5,7 +5,7 @@
 
 <h3 align="left">My Stats:</h3>
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=N01imits&theme=transparent" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=N01imits&show_icons=true&locale=en&theme=transparent" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=N01imits&show_icons=true&locale=en&theme=transparent" /></p>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/N01imits/N01imits/output/github-contribution-grid-snake-dark.svg">
