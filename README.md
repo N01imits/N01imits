@@ -1,4 +1,6 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=500&color=1666FF&width=435&height=30&lines=Hi+%F0%9F%91%8B%2C+I'm+Ilya;A+passionate+frontend+developer" alt="Typing SVG" /></a>
+<div align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=600&color=1666FF&width=435&height=30&lines=Hi+%F0%9F%91%8B%2C+I'm+Ilya;A+passionate+frontend+developer" alt="Typing SVG" /></a>
+</div>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=N01imits&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=react&locale=en&hide_border=false" height="150" alt="stats graph"  />
@@ -7,11 +9,11 @@
 
 ###
 
-<img align="right" height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXFxa21oOTliOWgyc25nZnVhdmlyc3F3azg4NmVubWc5czBvM2pwaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/IhDjGtQLzpxLETw2Jc/giphy.gif"  />
+<img align="right" height="200" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXFxa21oOTliOWgyc25nZnVhdmlyc3F3azg4NmVubWc5czBvM2pwaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/IhDjGtQLzpxLETw2Jc/giphy.gif"  />
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge" height="30" alt="react logo"  />
   <img width="5" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge" height="30" alt="typescript logo"  />
@@ -55,7 +57,7 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <a href="mailto:darksiders1282@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  /></a>
   <a href="https://t.me/N01imits" target="_blank">
@@ -64,8 +66,8 @@
 
 ###
 
-<picture>
+<!-- <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/N01imits/N01imits/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/N01imits/N01imits/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/N01imits/N01imits/output/github-contribution-grid-snake.svg">
-</picture>
+</picture> -->
